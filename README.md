@@ -1,5 +1,4 @@
-# Enterprise Big Data Platform 🏦
-### Domain: Banking
+# Enterprise Banking Data Platform 🏦
 
 [![Snowflake](https://img.shields.io/badge/Warehouse-Snowflake-29B5E8?logo=snowflake)](https://www.snowflake.com/)
 [![dbt](https://img.shields.io/badge/Modeling-dbt-FF694B?logo=dbt)](https://www.getdbt.com/)
